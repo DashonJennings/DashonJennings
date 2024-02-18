@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [SIEM Implementation in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Implementation in Azure](https://github.com/DashonJennings/SIEMImplementationInAzure)
  
   - [Deploying Active Directory in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
