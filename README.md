@@ -2,9 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [SIEM Implementation in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+  - [Deploying Active Directory in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 
+  - [File Integrity Monitor Initiation](https://github.com/joshmadakor1/Algorithms-Practice)
 
+  - [Developing a Lab for Vulnerabilities](https://github.com/joshmadakor1/Algorithms-Practice)
+
+  - [Secure REST API Basics](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📃 Certificaions:</h2>
 
