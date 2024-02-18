@@ -30,7 +30,7 @@
 
 [twitter]: https://twitter.com/dashonjennings
 [youtube]: https://www.youtube.com/c/UC0y2EbbgS7LUXGEJqa4ecsw
-[linkedin]: https://linkedin.com/in/dashonjennings
+[linkedin]:https://linkedin.com/in/dashonjennings
 
 <!--
 **DashonJennings/DashonJennings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
