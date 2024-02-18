@@ -14,7 +14,7 @@
 
 <h2>📃 Certificaions:</h2>
 
-  - [Google IT Support Professional][(https://github.com/DashonJennings/GoogleITSupportProfessional/tree/main)
+  - [Google IT Support Professional](https://github.com/DashonJennings/GoogleITSupportProfessional/tree/main)
 
 
 
