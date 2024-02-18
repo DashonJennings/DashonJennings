@@ -29,7 +29,7 @@
 [<img align="left" alt="dashonjennings | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/dashonjennings
-[youtube]: https://www.youtube.com/dashonjennings
+[youtube]: https://www.youtube.com/c/UC0y2EbbgS7LUXGEJqa4ecsw
 [linkedin]: https://linkedin.com/in/dashonjennings
 
 <!--
