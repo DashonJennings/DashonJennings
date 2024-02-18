@@ -8,7 +8,7 @@
 
   - [File Integrity Monitor Initiation](https://github.com/DashonJennings/FileIntegrityMonitorInitiation/tree/main)
 
-  - [Developing a Lab for Vulnerabilities](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Developing a Lab for Vulnerabilities](https://github.com/DashonJennings/DevelopingALabForVulnerabilities/tree/main)
 
   - [Secure REST API Basics](https://github.com/joshmadakor1/Algorithms-Practice)
 
