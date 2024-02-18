@@ -6,7 +6,7 @@
  
   - [Deploying Active Directory in Azure](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/tree/main)
 
-  - [File Integrity Monitor Initiation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [File Integrity Monitor Initiation](https://github.com/DashonJennings/FileIntegrityMonitorInitiation/tree/main)
 
   - [Developing a Lab for Vulnerabilities](https://github.com/joshmadakor1/Algorithms-Practice)
 
