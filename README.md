@@ -3,6 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [SIEM Implementation in Azure](https://github.com/DashonJennings/SIEMImplementationInAzure)
+
+<h3>Key Learning Points:</h3>
+
  
   - [Deploying Active Directory in Azure](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/tree/main)
 
