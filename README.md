@@ -14,7 +14,11 @@
 
 <h2>📃 Certificaions:</h2>
 
-  - [Google IT Support Professional](https://github.com/DashonJennings/GoogleITSupportProfessional/tree/main)
+ - [Google Cybersecurity Professional] [Google Cybersecurity.pdf](https://github.com/DashonJennings/DashonJennings/files/14566406/Google.Cybersecurity.pdf)
+
+
+
+ - [Google IT Support Professional](https://github.com/DashonJennings/GoogleITSupportProfessional/tree/main)
 
 
 
