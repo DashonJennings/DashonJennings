@@ -10,7 +10,7 @@
 
   - [Developing a Lab for Vulnerabilities (Upcoming)](https://github.com/DashonJennings/DevelopingALabForVulnerabilities/tree/main)
 
-  - [Secure REST API Basics(Upcoming)](https://github.com/DashonJennings/SecureRESTAPIBasics/tree/main)
+  - [Secure REST API Basics (Upcoming)](https://github.com/DashonJennings/SecureRESTAPIBasics/tree/main)
 
 <h2>📃 Certificaions:</h2>
 
