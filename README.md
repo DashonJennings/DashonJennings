@@ -14,7 +14,7 @@
 
 <h2>📃 Certificaions:</h2>
 
- - [Google Cybersecurity Professional] [Google Cybersecurity.pdf](https://github.com/DashonJennings/DashonJennings/files/14566406/Google.Cybersecurity.pdf)
+ - [Google Cybersecurity Professional](https://github.com/DashonJennings/DashonJennings/files/14566406/Google.Cybersecurity.pdf)
 
 
 
