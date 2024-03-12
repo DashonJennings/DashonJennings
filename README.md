@@ -7,11 +7,11 @@
  
   - [Deploying Active Directory in Azure](https://github.com/DashonJennings/DeployingActiveDirectoryInAzure/tree/main)
 
-  - [File Integrity Monitor Initiation (FIM) (Upcoming)](https://github.com/DashonJennings/FileIntegrityMonitorInitiation/tree/main)
+  - [File Integrity Monitor Initiation (FIM) (Upcoming)]((https://github.com/DashonJennings))
 
-  - [Developing a Lab for Vulnerabilities (Upcoming)](https://github.com/DashonJennings/DevelopingALabForVulnerabilities/tree/main)
+  - [Developing a Lab for Vulnerabilities (Upcoming)]((https://github.com/DashonJennings))
 
-  - [Secure REST API Basics (Upcoming)](https://github.com/DashonJennings/SecureRESTAPIBasics/tree/main)
+  - [Secure REST API Basics (Upcoming)]((https://github.com/DashonJennings))
 
 <h2>📃 Certificaions:</h2>
 
