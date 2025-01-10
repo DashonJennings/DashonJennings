@@ -1,4 +1,5 @@
 <h1>Hi, I'm Dashon! </h1>
+Hello, I’m Dashon, transitioning from a Distribution Technician role to becoming a Cybersecurity Analyst with a focus on penetration testing. Through hands-on learning in cybersecurity labs, I’ve gained skills in vulnerability assessment, ethical hacking, and network security. I’m pursuing certifications like CompTIA Security+ and OSCP to strengthen my expertise. With strong problem-solving, attention to detail, and a passion for technology, I’m committed to contributing to a safer digital world. I also create and share resources to support the cybersecurity community. Let’s connect and collaborate on building a more secure future.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
